@@ -1,4 +1,5 @@
 // Write a message generator program using javascript. Every time a user runs a program, they will get a new, randomized output
+// Author: Sirisha Adivishnu
 // Create arrays of different message components
 const starters = ["Hey there!", "Greetings!", "Hello!", "Hi!"];
 const middles = ["How are you today?", "What's new?", "What have you been up to?", "How's everything going?"];

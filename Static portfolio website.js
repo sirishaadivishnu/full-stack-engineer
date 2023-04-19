@@ -1,4 +1,5 @@
 // Build a personal portfolio website using HTML, CSS and JavaScript
+// Author: Sirisha Adivishnu
 const links = document.querySelectorAll('.link');
 const sections = document.querySelectorAll('section');
 
