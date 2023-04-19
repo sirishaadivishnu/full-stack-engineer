@@ -1,3 +1,5 @@
+// E-commerce application that allows users to perform various CRUD operations such as registering and account, browsing products for sale, etc.
+// Author: Sirisha Adivishnu
 // Server side script
 
 const express = require('express');
